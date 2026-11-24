@@ -29,7 +29,8 @@ Ce dépôt est consacré au **Backend Java Spring Boot**, conçu selon une archi
 
 Attesta.ma adopte une architecture Microservices. Chaque service métier est autonome et possède sa propre base de données PostgreSQL.
 
-![Architecture technique d'Attesta.ma](docs/architecture-technique.png)
+![Architecture technique d'Attesta.ma](arch-logique.jpeg
+)
 
 ### Principes architecturaux
 
